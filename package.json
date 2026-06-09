@@ -1,7 +1,9 @@
 {
-  "name": "@yourusername/shuffle-array",
+  "name": "@marijn-snoeren/shuffle-array",
   "version": "0.1.1",
-  "description": "A small library that takes an array as input and returns a new array that is shuffled.",
+  "files": [
+    "dist"
+  ],
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
   "module": "dist/index.m.js",
@@ -13,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marijn-snoeren/shuffle-array.git"
+    "url": "git+https://github.com/Marijn-Snoeren/shuffle-array.git"
   },
   "keywords": [
     "array",
